@@ -1,3 +1,9 @@
+
+```bash
+npm install https://github.com/kdps/react-native-switch-pro.git
+```
+
+
 # react-native-switch-pro (2.0 is coming)
 [![version](https://img.shields.io/npm/v/react-native-switch-pro.svg)](https://www.npmjs.com/package/react-native-switch-pro) [![downloads](https://img.shields.io/npm/dm/react-native-switch-pro.svg?style=flat)](https://www.npmjs.com/package/react-native-switch-pro)
 [![downloads](https://img.shields.io/npm/dt/react-native-switch-pro.svg?style=flat)](https://www.npmjs.com/package/react-native-switch-pro)  
